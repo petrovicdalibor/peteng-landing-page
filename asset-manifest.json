@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/peteng-landing-page/static/css/main.6ffeb184.css",
+    "main.js": "/peteng-landing-page/static/js/main.89819dde.js",
+    "static/js/787.e134adf9.chunk.js": "/peteng-landing-page/static/js/787.e134adf9.chunk.js",
+    "index.html": "/peteng-landing-page/index.html",
+    "main.6ffeb184.css.map": "/peteng-landing-page/static/css/main.6ffeb184.css.map",
+    "main.89819dde.js.map": "/peteng-landing-page/static/js/main.89819dde.js.map",
+    "787.e134adf9.chunk.js.map": "/peteng-landing-page/static/js/787.e134adf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ffeb184.css",
+    "static/js/main.89819dde.js"
+  ]
+}
