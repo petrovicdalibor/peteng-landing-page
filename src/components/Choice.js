@@ -12,7 +12,7 @@ export default class Choice extends Component {
         <div className="choice">
           <Row>
             <Col xs md="6">
-              <img src="/assets/images/image_2.jpg" alt="Image 2" />
+              <img src="./assets/images/image_2.jpg" alt="Image 2" />
 
               <p className="mt-4">
                 The standard chunk of Lorem Ipsum used since the 1500s is
@@ -28,7 +28,7 @@ export default class Choice extends Component {
                 </span>
               </div>
               <div className="d-flex align-items-end flex-column">
-                <img src="/assets/images/image_3.jpg" alt="Image 3" />
+                <img src="./assets/images/image_3.jpg" alt="Image 3" />
                 <a href="#" className="btn btn-light btn-lg">
                   Contact Us
                 </a>

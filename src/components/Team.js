@@ -22,21 +22,21 @@ export default class Team extends Component {
           <Row className="members">
             <Col className="d-flex flex-column align-items-start">
               <div className="d-card">
-                <img src="/assets/images/image_8.jpg" />
+                <img src="./assets/images/image_8.jpg" />
                 <h4>Dean Winchester</h4>
                 <p>Ghost Hunter</p>
               </div>
             </Col>
             <Col className="d-flex flex-column align-items-center">
               <div className="d-card">
-                <img src="/assets/images/image_9.jpg" />
+                <img src="./assets/images/image_9.jpg" />
                 <h4>Walter White</h4>
                 <p>Great Chef</p>
               </div>
             </Col>
             <Col className="d-flex flex-column align-items-end">
               <div className="d-card">
-                <img src="/assets/images/image_10.jpg" />
+                <img src="./assets/images/image_10.jpg" />
                 <h4>Frank Castle</h4>
                 <p>Badass Fighter</p>
               </div>

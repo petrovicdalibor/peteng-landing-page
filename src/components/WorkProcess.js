@@ -23,14 +23,14 @@ export default class WorkProcess extends Component {
                     <span>01</span>
                     <span>Analyze</span>
                   </div>
-                  <img src="/assets/images/image_4.jpg" alt="Image-4" />
+                  <img src="./assets/images/image_4.jpg" alt="Image-4" />
                 </div>
                 <div className="p-card">
                   <div className="head">
                     <span>03</span>
                     <span>Concept</span>
                   </div>
-                  <img src="/assets/images/image_5.jpg" alt="Image-5" />
+                  <img src="./assets/images/image_5.jpg" alt="Image-5" />
                 </div>
               </div>
             </Col>
@@ -41,14 +41,14 @@ export default class WorkProcess extends Component {
                     <span>02</span>
                     <span>Goals</span>
                   </div>
-                  <img src="/assets/images/image_6.jpg" alt="Image-6" />
+                  <img src="./assets/images/image_6.jpg" alt="Image-6" />
                 </div>
                 <div className="p-card">
                   <div className="head">
                     <span>04</span>
                     <span>Digitalize</span>
                   </div>
-                  <img src="/assets/images/image_7.jpg" alt="Image-7" />
+                  <img src="./assets/images/image_7.jpg" alt="Image-7" />
                 </div>
               </div>
             </Col>

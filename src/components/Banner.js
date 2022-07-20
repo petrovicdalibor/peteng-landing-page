@@ -27,7 +27,7 @@ export default class Banner extends Component {
             <Col xs md={4}>
               <div className="d-flex align-items-end flex-column">
                 <img
-                  src="/assets/images/image_1.jpg"
+                  src="./assets/images/image_1.jpg"
                   alt="Office"
                   className="mt-4"
                 />
