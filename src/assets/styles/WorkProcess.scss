@@ -1,0 +1,35 @@
+.process {
+  margin-top: 180px;
+
+  p {
+    padding-right: 140px;
+  }
+
+  .cards {
+    margin-top: 80px;
+    .p-card {
+      background-color: #2f2e3a;
+      display: flex;
+      flex-direction: column;
+      border-radius: 10px;
+      margin-top: 50px;
+
+      img {
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+      }
+
+      .head {
+        display: flex;
+        justify-content: space-between;
+        text-transform: uppercase;
+
+        span {
+          padding: 45px;
+          font-weight: 800;
+          font-size: 2.1rem;
+        }
+      }
+    }
+  }
+}
